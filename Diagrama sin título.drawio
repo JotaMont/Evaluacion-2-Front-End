@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T16:12:28.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_pEGJRZBj8F7tiTayomR" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T16:59:16.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4mws56g_88fyMPBjX40B" version="24.4.0" type="github">
   <diagram name="Página-1" id="51UefhWysgXUVph3Jfpn">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
         <mxCell id="keit4UbeJyR1lBKjOevf-49" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;endFill=0;" parent="1" source="keit4UbeJyR1lBKjOevf-48" target="keit4UbeJyR1lBKjOevf-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="keit4UbeJyR1lBKjOevf-48" value="Cantodad de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="keit4UbeJyR1lBKjOevf-48" value="Cantidad de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="440" y="630" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="keit4UbeJyR1lBKjOevf-52" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;endFill=0;" parent="1" source="keit4UbeJyR1lBKjOevf-51" target="keit4UbeJyR1lBKjOevf-5" edge="1">
@@ -143,13 +143,13 @@
         <mxCell id="keit4UbeJyR1lBKjOevf-54" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;endFill=0;" parent="1" source="keit4UbeJyR1lBKjOevf-53" target="keit4UbeJyR1lBKjOevf-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="keit4UbeJyR1lBKjOevf-53" value="fecha de vencimiento" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="keit4UbeJyR1lBKjOevf-53" value="Fecha de vencimiento" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="250" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="keit4UbeJyR1lBKjOevf-56" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;endFill=0;" parent="1" source="keit4UbeJyR1lBKjOevf-55" target="keit4UbeJyR1lBKjOevf-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="keit4UbeJyR1lBKjOevf-55" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="keit4UbeJyR1lBKjOevf-55" value="Descripcion" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="130" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="keit4UbeJyR1lBKjOevf-59" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="keit4UbeJyR1lBKjOevf-58" target="keit4UbeJyR1lBKjOevf-3" edge="1">
