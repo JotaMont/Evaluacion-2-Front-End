@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T16:59:16.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4mws56g_88fyMPBjX40B" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T17:26:17.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bboFocs3poAFDEmvziWs" version="24.4.0" type="github">
   <diagram name="Página-1" id="51UefhWysgXUVph3Jfpn">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="keit4UbeJyR1lBKjOevf-7" value="Rol" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="320" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="320" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="keit4UbeJyR1lBKjOevf-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#FFB570;" parent="1" source="keit4UbeJyR1lBKjOevf-18" target="keit4UbeJyR1lBKjOevf-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -207,6 +207,33 @@
         </mxCell>
         <mxCell id="YEOrygek9c4PvLr6ZeAc-19" value="N*N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="185" y="385" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YEOrygek9c4PvLr6ZeAc-20" value="Inventario" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YEOrygek9c4PvLr6ZeAc-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;endFill=0;" edge="1" parent="1" source="YEOrygek9c4PvLr6ZeAc-21" target="YEOrygek9c4PvLr6ZeAc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YEOrygek9c4PvLr6ZeAc-21" value="Costo Total Inventario" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="225" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YEOrygek9c4PvLr6ZeAc-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;endFill=0;" edge="1" parent="1" source="YEOrygek9c4PvLr6ZeAc-23" target="YEOrygek9c4PvLr6ZeAc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YEOrygek9c4PvLr6ZeAc-23" value="Cantidad de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YEOrygek9c4PvLr6ZeAc-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;endFill=0;" edge="1" parent="1" source="YEOrygek9c4PvLr6ZeAc-25" target="YEOrygek9c4PvLr6ZeAc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YEOrygek9c4PvLr6ZeAc-25" value="Salidas de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YEOrygek9c4PvLr6ZeAc-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#82b366;endArrow=none;endFill=0;fillColor=#d5e8d4;" edge="1" parent="1" source="YEOrygek9c4PvLr6ZeAc-27" target="YEOrygek9c4PvLr6ZeAc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YEOrygek9c4PvLr6ZeAc-27" value="Bajas de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
