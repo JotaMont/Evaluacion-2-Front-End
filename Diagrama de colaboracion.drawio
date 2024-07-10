@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T20:07:01.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wX_lh9K097HC7eFuNdrm" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-10T21:51:56.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Yv2GodV70YOBMQJLQcbp" version="24.6.4" type="github" pages="3">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1246" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -852,7 +852,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ac2LtFa9NQtrFFmKxtsX" name="Página-2">
-    <mxGraphModel dx="792" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="793" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -862,7 +862,7 @@
             <mxPoint x="320" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1xwkilQdyHWq2qgmGZzi-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1. Solicita detalles de inevtario&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="1xwkilQdyHWq2qgmGZzi-9" vertex="1" connectable="0">
+        <mxCell id="1xwkilQdyHWq2qgmGZzi-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1. Solicita detalles de inventario&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="1xwkilQdyHWq2qgmGZzi-9" vertex="1" connectable="0">
           <mxGeometry x="-0.2459" y="3" relative="1" as="geometry">
             <mxPoint x="25" y="-7" as="offset" />
           </mxGeometry>
